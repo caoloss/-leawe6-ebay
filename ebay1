@@ -1,0 +1,4 @@
+echo "enter username"
+read $username
+echo "your name is $username"
+
